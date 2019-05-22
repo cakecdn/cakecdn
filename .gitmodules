@@ -1,0 +1,12 @@
+[submodule "cake-agent-file-node"]
+	path = cake-agent-file-node
+	url = git@github.com:cakecdn/cake-agent-file-node.git
+[submodule "cake-api-admin"]
+	path = cake-api-admin
+	url = git@github.com:cakecdn/cake-api-admin.git
+[submodule "cake-api-user"]
+	path = cake-api-user
+	url = git@github.com:cakecdn/cake-api-user.git
+[submodule "cake-cloud-gateway"]
+	path = cake-cloud-gateway
+	url = git@github.com:cakecdn/cake-cloud-gateway.git
