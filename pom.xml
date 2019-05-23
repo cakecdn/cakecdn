@@ -13,9 +13,9 @@
     </properties>
 
     <modules>
+        <module>cake-agent-file-node</module>
+        <module>cake-api-admin</module>
+        <module>cake-api-user</module>
         <module>cake-cloud-gateway</module>
-        <module>cake-endpoint-admin</module>
-        <module>cake-endpoint-user</module>
-        <module>cake-node-filenode</module>
     </modules>
 </project>
